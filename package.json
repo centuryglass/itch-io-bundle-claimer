@@ -1,0 +1,22 @@
+{
+  "name": "itch-io-bundle-claimer",
+  "version": "1.0.0",
+  "description": "Add all games from purchased itch.io bundles to your library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/centuryglass/itch-io-bundle-claimer.git"
+  },
+  "author": "Anthony Brown",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/centuryglass/itch-io-bundle-claimer/issues"
+  },
+  "homepage": "https://github.com/centuryglass/itch-io-bundle-claimer#readme",
+  "dependencies": {
+    "playwright": "^1.19.2"
+  }
+}
